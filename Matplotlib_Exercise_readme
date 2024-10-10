@@ -1,0 +1,28 @@
+This repository contains a Jupyter notebook where I practiced and explored various functionalities of the matplotlib library. 
+Inside the notebook, I cover key concepts and demonstrate the usage of matplotlib for different types of plots and visualizations. 
+If you're interested in learning the basics of data visualization or need examples of how to implement common types of charts using matplotlib, this repository is for you.
+
+**Key Topics Covered:**
+
+>>Basic Plots:
+
+Line plots
+Bar plots
+Scatter plots
+Customizing Plots
+
+>>Changing figure size:
+
+Adding titles, labels, and legends
+Adjusting axis limits
+Advanced Plotting
+
+>>Subplots: 
+Creating multiple plots in one figure
+Using styles and themes for better aesthetics
+Adding annotations to plots for clarity
+
+>>Visualizing Data:
+Histograms
+Pie charts
+Box plots
